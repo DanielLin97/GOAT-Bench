@@ -4,6 +4,9 @@ openai.api_key = "xxxxxxxxxxxxxxxxx"
 
 ```
 
+## Confirm the data path
+
+Please refer to [Data](https://huggingface.co/datasets/HKBU-NLP/GOAT-Bench)
 
 ## Run the inference
 
